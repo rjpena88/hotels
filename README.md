@@ -1,1 +1,1 @@
-hotels
+hotels.com
